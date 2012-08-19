@@ -1,2 +1,3 @@
 # Fix
+Hi there!
 This is our bugfix
